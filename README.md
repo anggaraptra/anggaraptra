@@ -2,7 +2,7 @@ Hi there 👋 My name is Anggara Putra
 ==============================
 
 * 🌍  I'm based in Bali, Indonesia
-* ✉️  You can contact me at [kadekanggaraptra@gmail.com](mailto:kadekanggaraptra@gmail.com)
+* ✉️  You can contact me at [kadekanggaraptra@gmail.com](mailto:kadekanggaraptra@gmail.com) | [anggaraputrabali609@gmail.com](mailto:anggaraputrabali609@gmail.com)
 * 🚀  I'm currently working on [Home](http://myhome)
 
 
