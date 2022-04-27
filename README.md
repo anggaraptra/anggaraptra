@@ -1,4 +1,4 @@
-Hi 👋 My name is Anggara Putra
+Hi there 👋 My name is Anggara Putra
 ==============================
 
 * 🌍  I'm based in Bali, Indonesia
