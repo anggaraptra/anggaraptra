@@ -21,4 +21,4 @@ Hi there 👋 My name is Anggara Putra
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/anggaraptra"><img src="https://github-readme-stats.vercel.app/api?username=anggaraptra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="anggaraptra's GitHub stats" /></a>
+<a href="http://www.github.com/asasas"><img src="https://github-readme-stats.vercel.app/api?username=asasas&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="Po GitHub stats" /></a>
