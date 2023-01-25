@@ -18,5 +18,4 @@ Hi there. My name is Anggara
 
 <p align="center"><b>Visitor Count</b> </br></br>
 <img align="center" src="https://profile-counter.glitch.me/anggaraptra/count.svg"/></p>
-p
 
