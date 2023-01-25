@@ -15,3 +15,5 @@ Hi there. My name is Anggara
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/anggaraptra"><img src="https://github-readme-stats.vercel.app/api?username=anggaraptra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="anggaraptra's GitHub stats" /></a>
+
+![Visitor Count](https://profile-counter.glitch.me/anggaraptra/count.svg)
