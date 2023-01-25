@@ -15,5 +15,3 @@ Hi there. My name is Anggara
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/anggaraptra"><img src="https://github-readme-stats.vercel.app/api?username=anggaraptra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="anggaraptra's GitHub stats" /></a>
-
-<a href="http://www.github.com/anggaraptra"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=anggaraptra&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
