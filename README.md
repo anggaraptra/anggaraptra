@@ -1,4 +1,4 @@
-Hi there, My name is Anggara
+Hi there. My name is Anggara
 ==============================
 
 * 🌍  I'm based in Bali
