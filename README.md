@@ -3,7 +3,7 @@ Hi there 👋 My name is Anggara Putra
 
 * 🌍  I'm based in Bali
 * ✉️  You can contact me at kadekanggaraptra@gmail.com
-* 🤝  Looking for help with `Google``Github Copilot``Chat-GPT`
+* 🤝  Looking for help with `Google` `Github Copilot` `Chat-GPT`
 
 
 ### Socials
