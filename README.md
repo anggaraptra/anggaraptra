@@ -14,7 +14,7 @@ Hi there. My name is Anggara
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/anggaraptra"><img src="https://github-readme-stats.vercel.app/api?username=anggaraptra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="anggaraptra's GitHub stats" /></a>
+<a href="http://www.github.com/anggaraptra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anggaraptra&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <p align="center"><b>Visitor Count</b> </br></br>
 <img align="center" src="https://profile-counter.glitch.me/anggaraptra/count.svg"/></p>
