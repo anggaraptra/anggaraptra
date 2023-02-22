@@ -1,7 +1,7 @@
 Hi there. My name is Anggara
 ==============================
 
-* 🌍  I'm based in Bali
+* 🌍  I'm based in Bali, work at <a href="https://mylonelyhome.netlify.app/">`Home`</a>
 * ✉️  You can contact me at kadekanggaraptra@gmail.com
 * 🤝  Looking for help with `Google` `Github Copilot` `Chat-GPT`
 
