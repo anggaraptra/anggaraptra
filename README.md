@@ -1,7 +1,6 @@
 Hi there 👋
 ==============================
 
-* 🌍  I'm based in Bali, work at <a href="https://mylonelyhome.netlify.app/" target="_blank">`Home`</a>
 * ✉️  You can contact me at kadekanggaraptra@gmail.com
 * 🤝  Looking for help with `Google` `Github Copilot` `Chat-GPT`
 
