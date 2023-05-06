@@ -1,4 +1,4 @@
-Hi there. My name is Anggara
+Hi there 👋
 ==============================
 
 * 🌍  I'm based in Bali, work at <a href="https://mylonelyhome.netlify.app/" target="_blank">`Home`</a>
