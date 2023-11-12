@@ -2,7 +2,7 @@ Hi there 👋
 ==============================
 
 * ✉️  You can contact me at kadekanggaraptra@gmail.com
-* 🤝  Looking for help with `Google` `Github Copilot` `Chat-GPT`
+* 🤝  Looking for help with `Google` `Github Copilot` `Chat-GPT` `Bard`
 
 
 ### Socials
