@@ -1,10 +1,6 @@
 Hi there 👋
 ==============================
 
-* ✉️  You can contact me at kadekanggaraptra@gmail.com
-* 🤝  Looking for help with `Google` `Github Copilot` `Chat-GPT` `Bard`
-
-
 ### Socials
 
 <p align="left"> 
@@ -18,7 +14,4 @@ Hi there 👋
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
 </p>
-
-<p align="center"><b>Visitor Count</b> </br></br>
-<img align="center" src="https://profile-counter.glitch.me/anggaraptra/count.svg"/></p>
 
