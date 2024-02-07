@@ -1,7 +1,7 @@
 Hi there 👋
 ==============================
 
-<h3>No tech, no life</h3>
+<h3>No tech?? No life!!</h3>
 
 ### Socials
 
