@@ -1,6 +1,8 @@
 Hi there 👋
 ==============================
 
+No tech, no life
+
 ### Socials
 
 <p align="left"> 
